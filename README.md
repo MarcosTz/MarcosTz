@@ -1,6 +1,6 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Marcos Thomaz! 👋
 
-Estudante de **análise e desenvolvimento de sistema** na **UniPaulistana**. Atualmente focado em aprender as bases da computação e desenvolvimento de software.
+Estudante de **análise e desenvolvimento de sistema** na **UniPaulistana**. Atualmente focado em construir uma base sólida em computação para me tornar um desenvolvedor **Full Stack**.
 
 ## 🚀 Sobre Mim
 - 🎓 Cursando Ads
@@ -13,12 +13,10 @@ Estudante de **análise e desenvolvimento de sistema** na **UniPaulistana**. Atu
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark)
-
 ---
 
 📫 **Como me encontrar:**
+
 https://www.linkedin.com/in/marcos-thomaz-rosa-6362a2248/
+
 email: marcostzrosa@gmail.com
