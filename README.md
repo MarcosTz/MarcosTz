@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos Thomaz! 👋
 
-Estudante de **análise e desenvolvimento de sistema** na **UniPaulistana**. Atualmente focado em construir uma base sólida em computação para me tornar um desenvolvedor **Full Stack**.
+Estudante de **análise e desenvolvimento de sistema** na **Fatec Antonio Russo**. Atualmente focado em construir uma base sólida em computação para me tornar um desenvolvedor **Full Stack**.
 
 ## 🚀 Sobre Mim
 - 🎓 Cursando Ads
